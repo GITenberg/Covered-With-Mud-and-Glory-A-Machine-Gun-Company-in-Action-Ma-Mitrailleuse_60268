@@ -1,0 +1,54 @@
+_repo: Covered-With-Mud-and-Glory-A-Machine-Gun-Company-in-Action-Ma-Mitrailleuse_60268
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Barrès, Maurice
+    aliases:
+    - Barrès, M. (Maurice)
+    - Barres, Maurice
+    birthdate: 1862
+    deathdate: 1923
+    gutenberg_agent_id: '6948'
+    url: http://www.gutenberg.org/2009/agents/6948
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Maurice_Barrès
+    - http://fr.wikipedia.org/wiki/Maurice_Barrès
+  contributor:
+    agent_name: Clemenceau, Georges
+    aliases:
+    - Clemenceau, Georges Eugène Benjamin
+    - Clemenceau, Georges Eugene Benjamin
+    birthdate: 1841
+    deathdate: 1929
+    gutenberg_agent_id: '40732'
+    url: http://www.gutenberg.org/2009/agents/40732
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Georges_Clemenceau
+    - https://fr.wikipedia.org/wiki/Georges_Clemenceau
+  translator:
+    agent_name: Rich, Edwin Gile
+    birthdate: 1879
+    deathdate: 1939
+    gutenberg_agent_id: '6728'
+    url: http://www.gutenberg.org/2009/agents/6728
+creator:
+  author:
+    agent_name: Lafond, Georges
+    gutenberg_agent_id: '50875'
+    url: http://www.gutenberg.org/2009/agents/50875
+description: ''
+gutenberg_issued: '2019-09-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60268'
+  lccn: '18004933'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- Personal narratives, French'
+- GITenberg
+title: 'Covered With Mud and Glory: A Machine Gun Company in Action ("Ma Mitrailleuse")'
+url: http://www.gutenberg.org/ebooks/60268
